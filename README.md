@@ -17,16 +17,3 @@ El flujo de trabajo se dividió en las siguientes fases:
  * Ingeniería de Características: Creación de nuevas variables categóricas (grupo_uso y grupo_edad) mediante lógica condicional en Python.
  * Análisis Exploratorio (EDA): Visualización de la distribución de los segmentos creados para identificar la masa crítica de clientes.
  * Generación de Insights: Redacción de conclusiones ejecutivas para la toma de decisiones estratégicas.
-🚀 Cómo ejecutar el Notebook
-Para visualizar y reproducir este análisis, sigue estos pasos:
- * Opción Google Colab: * Sube el archivo .ipynb a tu Drive.
-   * Haz clic derecho sobre el archivo y selecciona "Abrir con Google Colaboratory".
- * Entorno Local (Jupyter):
-   * Asegúrate de tener instalada una distribución de Python (como Anaconda).
-   * Ejecuta jupyter notebook en tu terminal y abre el archivo del proyecto.
-📋 Guía de Reproducción
-Para obtener los mismos resultados presentados en este análisis:
- * Asegúrate de tener instaladas las librerías necesarias: pandas, numpy, matplotlib y seaborn.
- * Carga el archivo de datos al inicio del notebook.
- * Ejecuta las celdas en orden secuencial (de arriba hacia abajo) para asegurar que las variables y columnas nuevas se creen correctamente antes de graficar.
- * En la sección de Visualización, las gráficas se generarán automáticamente mostrando la distribución por uso y edad.
