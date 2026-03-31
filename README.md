@@ -1,7 +1,9 @@
 # telecom-analysis
 Análisis de Segmentación de Clientes - ConnectaTel
+
 🎯 Objetivo del Proyecto
 El propósito de este análisis es identificar patrones de comportamiento y consumo en la base de usuarios de ConnectaTel. Mediante el uso de técnicas de limpieza de datos y segmentación estadística, buscamos clasificar a los clientes por su nivel de actividad (bajo, medio, alto) y su rango generacional. Esto permitirá al equipo de marketing y producto diseñar estrategias de fidelización más precisas y ajustar la oferta comercial actual.
+
 📊 Datasets Utilizados
 Para este proyecto se utilizó un conjunto de datos denominado user_profile que contiene la siguiente información:
  * age: Edad del usuario (utilizada para segmentación demográfica).
